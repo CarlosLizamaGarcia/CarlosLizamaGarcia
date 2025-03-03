@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi!👋
+
+-My name is Carlos Lizama García, I am a Data Scientist and a Physicist
+
+
 
 <!--
 **CarlosLizamaGarcia/CarlosLizamaGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
