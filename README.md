@@ -1,6 +1,6 @@
 ## Hi!👋
 
--My name is Carlos Lizama García, I am a Data Scientist and a Physicist
+- My name is Carlos Lizama García, I am a Data Scientist and a Physicist
 
 
 
