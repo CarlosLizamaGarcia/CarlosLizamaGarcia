@@ -1,6 +1,10 @@
 ## Hi!👋
 
-- My name is Carlos Lizama García, I am a Data Scientist and a Physicist
+- My name is Carlos Lizama García
+- ⚛️ I am a Data Scientist and a Physicist 👾
+- 💻 I am currently learning Machine Learnning and Deep Learning
+- ⚽ I love playing soccer and chess ♟️
+  
 
 
 
