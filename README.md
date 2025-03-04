@@ -1,4 +1,4 @@
-## Hi!👋
+## Hi!:octocat:
 
 - My name is Carlos Lizama García
 - ⚛️ I am a Data Scientist and a Physicist 👾
