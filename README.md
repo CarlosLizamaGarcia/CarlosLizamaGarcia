@@ -2,7 +2,7 @@
 
 - My name is Carlos Lizama García
 - ⚛️ I am a Data Scientist and a Physicist 👾
-- 💻 I am currently learning Machine Learnning and Deep Learning
+- 💻 I am currently learning Machine Learnning, Deep Learning, and Google Cloud Platform ☁️
 - ⚽ I love playing soccer and chess ♟️
   
 
