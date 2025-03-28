@@ -1,4 +1,4 @@
-[//]: # !(https://github.com/CarlosLizamaGarcia/CarlosLizamaGarcia/blob/main/assets/banner-particulas-ia.png?raw=true)
+<!-- # !(https://github.com/CarlosLizamaGarcia/CarlosLizamaGarcia/blob/main/assets/banner-particulas-ia.png?raw=true) -->
 
 # ¡Hola! 👋 Soy Carlos Lizama García 
 
