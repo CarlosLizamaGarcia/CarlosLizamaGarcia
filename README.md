@@ -29,4 +29,4 @@
 - 🛠️ Desarrollando proyectos con ML/DL y Cloud  
 - 🔗 Conectemos:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-lizama-garc%C3%ADa/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](TU_LINK_GITHUB)  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosLizamaGarcia)  
