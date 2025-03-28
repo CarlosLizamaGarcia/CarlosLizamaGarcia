@@ -28,7 +28,7 @@
 
 ### 🚀 Habilidades & Aprendizaje  
 - 🤖 **Machine Learning** | **Deep Learning** | **LLMs**  
-- ☁️ **Google Cloud Platform** (en proceso de certificación)  
+- ☁️ **Google Cloud Platform**  
 - 📊 Análisis de datos con **Pandas**, **NumPy**, **SciPy**, **Scikit-learn**, **Matplotlib**
 
 ### 🎯 Intereses & Pasiones  
@@ -38,7 +38,8 @@
 
 ### 💻 Actualmente  
 - 📊 Transicionando al campo de **Ciencia de Datos/AI**  
-- 🛠️ Desarrollando proyectos con ML/DL y Cloud  
+- 🛠️ Desarrollando proyectos con ML/DL y Cloud
+-  Modelos de ML para clasificación de partículas.
 - 🔗 Conectemos:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-lizama-garc%C3%ADa/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosLizamaGarcia)  
